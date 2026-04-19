@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+0nW6OK0hXw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasid\\Desktop\\KeyLockr-main\\KeyLockr-master\\src\\KeyLockr.Tray\\KeyLockr.Tray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasid\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.56\\microsoft.windows.sdk.net.ref.10.0.19041.56.nupkg.sha512"
+  ],
+  "logs": []
+}
